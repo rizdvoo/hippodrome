@@ -1,0 +1,8 @@
+2023-10-14 16:15:36,423 ERROR Hippodrome [main] Horses list is empty
+2023-10-14 16:15:36,435 ERROR Hippodrome [main] Horses list is null
+2023-10-14 16:15:37,540 ERROR Horse [main] Name is null
+2023-10-14 16:15:37,602 ERROR Horse [main] Name is blank
+2023-10-14 16:15:37,610 ERROR Horse [main] Name is blank
+2023-10-14 16:15:37,613 ERROR Horse [main] Name is blank
+2023-10-14 16:15:37,618 ERROR Horse [main] Speed is negative
+2023-10-14 16:15:37,620 ERROR Horse [main] Distance is negative
